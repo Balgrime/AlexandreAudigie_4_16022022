@@ -1075,11 +1075,12 @@ h4 {
     margin: auto;
 }
 
+button:focus-visible,
 a:focus-visible{
     outline: #8a4322 solid 4px !important;
 }
 
-.accueil{
+.active{
     color: #a84212 !important;
 }
 
@@ -1122,4 +1123,18 @@ a:focus-visible{
 
 .text-shadow{
     text-shadow: #363636 2px 2px;
+}
+
+.titre-contact{
+    color: white !important;
+    text-shadow: #505050 1px 1px;
+}
+
+.sous-titre-contact{
+    color: white !important;
+    text-shadow: #505050 1px 1px;
+}
+
+.souligne__taille{
+    font-size: 1.1rem;
 }
