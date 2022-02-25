@@ -1080,7 +1080,7 @@ a:focus-visible{
 }
 
 .accueil{
-    color: #c27956 !important;
+    color: #a84212 !important;
 }
 
 .background-white{
@@ -1117,8 +1117,9 @@ a:focus-visible{
 
 .shadow{
     box-shadow: 2px 2px 4px #3b3b3b !important;
+    text-shadow: #505050 1px 1px;
 }
 
 .text-shadow{
-    text-shadow: #363636 2px 2px;;
+    text-shadow: #363636 2px 2px;
 }
