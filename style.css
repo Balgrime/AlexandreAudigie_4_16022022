@@ -651,3 +651,7 @@ a:focus-visible{
 .souligne__taille{
     font-size: 1.1rem;
 }
+
+.color-h1{
+    color: #f5a884 !important;
+}
